@@ -1,4 +1,4 @@
-# Сheck Your Code Against the Following Points
+f# Сheck Your Code Against the Following Points
 
 ## Don't Repeat Yourself
 
